@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Assignment 14</title>
+<style>div{overflow-x:auto} table{border-collapse:collapse;min-width:600px}</style>
+</head>
+<body>
+<div><table border="1"><tr><th>Name</th><th>Details</th></tr>
+<tr><td>Aman</td><td><table border="1"><tr><td>HTML</td><td>85</td></tr><tr><td>CSS</td><td>90</td></tr></table></td></tr></table></div>
+</body>
+</html>
