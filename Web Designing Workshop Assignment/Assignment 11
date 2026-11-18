@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Accessible Page</title></head>
+<body>
+<a href="#main">Skip to main content</a>
+<header><h1>Accessible College Page</h1></header>
+<main id="main"><img src="campus.jpg" alt="College campus building"><p>Welcome to our accessible website.</p>
+<button aria-label="Close menu">X</button></main>
+</body>
+</html>
