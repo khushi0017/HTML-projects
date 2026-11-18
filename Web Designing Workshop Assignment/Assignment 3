@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Assignment 3</title></head>
+<body>
+<h2>Block Elements</h2>
+<div style="background:lightblue;">This is a div - Block</div>
+<p>This is a paragraph - Block</p>
+<h2>Inline Elements</h2>
+<p>This is <span style="color:red;">span - Inline</span> and <a href="#">link - Inline</a> and <b>bold - Inline</b> in same line.</p>
+</body>
+</html>
