@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>College Portal</title></head>
+<body>
+<header><h1>College Portal</h1></header>
+<nav><a href="#">Home</a> | <a href="#">Courses</a></nav>
+<main><article><h2>Admission Open</h2><p>Apply before 30 June.</p></article></main>
+<aside><p>Notice: Library closed Sunday.</p></aside>
+<footer><p>&copy; 2026 College</p></footer>
+<!-- Non-semantic version: same layout using only div -->
+<div><h1>College Portal using div</h1></div>
+</body>
+</html>
