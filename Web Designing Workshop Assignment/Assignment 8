@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Assignment 8</title></head>
+<body>
+<p><a href="https://www.google.com" target="_blank">External Link - Google</a></p>
+<p><a href="#bottom">Internal Link - Go to Bottom</a></p>
+<p><a href="mailto:info@college.com">Email Us</a></p>
+<a href="https://www.wikipedia.org"><img src="https://via.placeholder.com/200" alt="Sample Image" width="200" height="150" title="Click to open Wikipedia"></a>
+<h2 id="bottom">Bottom Section</h2>
+</body>
+</html>
