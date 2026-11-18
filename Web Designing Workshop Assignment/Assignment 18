@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>Student Admission</title></head>
+<body>
+<a href="#main">Skip to main</a>
+<header><h1>College Admission 2026</h1></header>
+<nav><a href="#">Home</a> | <a href="#">Courses</a></nav>
+<main id="main">
+<h2>Available Courses</h2>
+<table border="1"><caption>Course Fees</caption><tr><th>Course</th><th>Fees</th></tr><tr><td>BCA</td><td>50000</td></tr><tr><td>B.Tech</td><td>80000</td></tr></table>
+<h2>Admission Form</h2>
+<form action="submit.php" method="post">
+<label for="n">Full Name:</label><input type="text" id="n" required><br><br>
+<label for="e">Email:</label><input type="email" id="e" required><br><br>
+<label for="m">Mobile:</label><input type="tel" id="m" pattern="[0-9]{10}" title="Enter exactly 10 digits" required><br><br>
+<label for="c">Course:</label><select id="c"><option>BCA</option><option>B.Tech</option></select><br><br>
+<input type="submit" value="Apply Now">
+</form></main>
+<footer><p>&copy; 2026 College</p></footer>
+</body>
+</html>
